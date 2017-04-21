@@ -96,6 +96,6 @@ ENV/
 .ropeproject
 
 amazon info
-keys//
 .idea/
-
+/keys/
+/keys/flasktest.ppk
